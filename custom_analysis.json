@@ -1,0 +1,43 @@
+{
+  "original_text": "I find this product very useful.",
+  "translated_text": "I find this product very useful.",
+  "emotions": {
+    "primary": {
+      "emotion": "joy",
+      "activation": "High",
+      "intensity": 1.0
+    },
+    "secondary": {
+      "emotion": "anger",
+      "activation": "Low",
+      "intensity": 0.0
+    },
+    "tertiary": {
+      "emotion": "sadness",
+      "activation": "Low",
+      "intensity": 0.0
+    }
+  },
+  "topics": {
+    "main": [
+      "product useful"
+    ],
+    "subtopics": {
+      "product useful": [
+        "product useful",
+        "useful",
+        "product"
+      ]
+    },
+    "relevance": {
+      "product useful": 0
+    }
+  },
+  "adorescore": {
+    "overall": 75,
+    "breakdown": {
+      "product useful": 50
+    },
+    "trend": "Decreasing"
+  }
+}

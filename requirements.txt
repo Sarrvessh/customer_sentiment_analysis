@@ -1,0 +1,13 @@
+dash
+dash-bootstrap-components
+pandas
+nltk
+textblob
+spacy
+bertopic
+keybert
+transformers
+scikit-learn
+plotly
+streamlit
+torch
